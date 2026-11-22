@@ -2,7 +2,7 @@
 
 Computer Science sophomore at **Rutgers University–New Brunswick**, B.A. expected May 2029. From Parsippany, NJ.
 
-I'm seeking a computer science internship. My focus is cybersecurity — I'm working toward a SOC (Security Operations Center) analyst role — and I build practical tools in Java and Python to automate repetitive work and solve real problems.
+I'm seeking an internship where I can build practical software, solve real problems, and learn from a team. I build tools in Java and Python to automate repetitive work, write clean and tested code, and turn messy, manual processes into something reliable. I have a strong interest in cybersecurity and am working toward a SOC (Security Operations Center) analyst role.
 
 ## Projects
 
